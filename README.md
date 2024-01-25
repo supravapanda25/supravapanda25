@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Suprava Panda</h1>
+<h3 align="center">Just learning now :)</h3>
+
+
 - 👋 Hi, I’m @supravapanda25
 - 🌱 I’m currently learning python
 - 📫 How to reach me supravapanda.25@gmail.com
